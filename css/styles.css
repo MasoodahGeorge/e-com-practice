@@ -1,0 +1,21 @@
+body
+
+/* NAV SECTION */
+.cart{
+    width: 30px;
+    height: 30px;
+}
+
+.d-inline-block{
+    width: 70px;
+    height: 70px;
+}
+
+/* HOME SECTION */
+body{
+    background-color: #DDCBCF;
+}
+
+#nv{
+    background-color: aliceblue;
+}
