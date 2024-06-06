@@ -11,11 +11,21 @@ body
     height: 70px;
 }
 
+#nv{
+    background-color: aliceblue;
+}
+
 /* HOME SECTION */
 body{
     background-color: #DDCBCF;
 }
 
-#nv{
-    background-color: aliceblue;
+/* Style for the home section */
+#home-sec {
+    background-image: url('https://i.postimg.cc/0jHhL2dw/sect1-Back.jpg'); /* Replace with the path to your background image */
+    background-size: cover; /* This makes the background cover the entire section */
+    background-position: center; /* This centers the background image */
+    height: 100vh; /* This makes the section height full viewport height */
+    padding-top: 7%;
 }
+
